@@ -11,7 +11,6 @@ class ShopPage extends Component {
   }
 
   render() {
-    console.log(this.state.collections);
     const { collections } = this.state;
     return (
       <div>
